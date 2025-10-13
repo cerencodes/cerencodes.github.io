@@ -1,0 +1,9 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/posts/Churn Prediction with Tidymodels - Part 1: K-Nearest Neighbors/churn-prediction-with-tidymodels-part-1.html",
+      "/posts/Churn Prediction with Tidymodels - Part 2: Random Forest /churn-prediction-with-tidymodels-part-2.html"
+    ]
+  }
+]
