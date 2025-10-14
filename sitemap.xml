@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cerencodes.github.io/cerencodes/about.html</loc>
-    <lastmod>2025-10-13T05:05:49.421Z</lastmod>
+    <loc>https://cerencodes.github.io/cerencodes/index.html</loc>
+    <lastmod>2025-10-14T02:46:42.446Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cerencodes.github.io/cerencodes/posts/churn-prediction-tidymodels-random-forest/index.html</loc>
+    <lastmod>2025-10-14T03:08:51.196Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cerencodes.github.io/cerencodes/posts/churn-prediction-tidymodels-knn/index.html</loc>
+    <lastmod>2025-10-14T02:40:02.323Z</lastmod>
   </url>
   <url>
     <loc>https://cerencodes.github.io/cerencodes/projects.html</loc>
-    <lastmod>2025-10-12T04:24:59.453Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cerencodes.github.io/cerencodes/posts/Churn Prediction with Tidymodels - Part 1: K-Nearest Neighbors/churn-prediction-with-tidymodels-part-1.html</loc>
-    <lastmod>2025-10-13T04:52:16.846Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cerencodes.github.io/cerencodes/posts/Churn Prediction with Tidymodels - Part 2: Random Forest /churn-prediction-with-tidymodels-part-2.html</loc>
-    <lastmod>2025-10-13T04:54:28.927Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cerencodes.github.io/cerencodes/index.html</loc>
-    <lastmod>2025-10-13T06:08:16.816Z</lastmod>
+    <lastmod>2025-10-14T02:49:17.867Z</lastmod>
   </url>
 </urlset>
