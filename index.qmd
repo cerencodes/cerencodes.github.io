@@ -1,11 +1,21 @@
 ---
-title: "cerencodes"
+title: "Ceren Unal"
+#image:
+about: 
+  template: jolla
+  #image-width: 20em
+  #image-shape: round
+  #links: 
+    #- icon: linkedin
+    #  text: Linkedin
+    #- icon: github
+    #  text: GitHub
 ---
 
-This is a Quarto website.
+Ceren Unal is a digital marketing expert specializing in digital products and services. When not innovating on advertising platforms, Ceren enjoys exploring the LA food scene, reading and watching plays, visiting museums and learning about art and photography.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**Education**
 
-```{r}
-1 + 1
-```
+Cal Poly Pomona \| MS in Digital Marketing Analytics \| Aug 2024 - Aug 2026
+
+Boğaziçi University \| BA in English Literature \| Aug 2017 - May 2022
