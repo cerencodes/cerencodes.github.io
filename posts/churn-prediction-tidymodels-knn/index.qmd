@@ -25,13 +25,15 @@ execute:
 #  hypothesis: true
 ---
 
-*This study aims to develop a customer churn prediction model for the fictional streaming service Skystream, using a synthetic dataset.*
+Acquiring new customers typically costs more than retaining existing ones, making retention central to marketing strategy. However, effective retention requires identifying at-risk customers before they churn—a challenge for teams without machine learning expertise. Without predictive targeting, retention budgets are often wasted on customers who would have stayed anyway.
 
-Skystream is an emerging U.S.-based platform currently focusing its marketing efforts across eight states. The analysis employs a K-Nearest Neighbors (KNN) supervised learning algorithm to predict customer churn based on demographic and behavioral attributes within the dataset.
+This analysis demonstrates how a K-Nearest Neighbors (KNN) algorithm can predict customer churn using demographic and behavioral data, enabling marketers to focus retention efforts on genuinely at-risk customers rather than broad, inefficient campaigns.
+
+For this purpose, we are using a synthetic streaming platform dataset.
 
 ## Load Packages & Data
 
-We will use the **Tidyverse** package for data processing. At first glance, the dataset appears to be in a tidy format, with each variable represented as a column and each observation as a row.
+We will use the **Tidyverse** package for data processing. At first glance, the Skystream dataset appears to be in a tidy format, with each variable represented as a column and each observation as a row.
 
 ```{r}
 library(tidyverse)
@@ -90,7 +92,7 @@ skystream <- skystream %>%
 
 ```
 
-## Data Exploration
+## Exploratory Data Analysis
 
 There are users from 9 states in the data set, equally distributed, minus the AZ user base which seems to be extremely low. There might be a mistake in the records.
 

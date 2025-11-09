@@ -26,8 +26,6 @@ execute:
 #  hypothesis: true
 ---
 
-*This study aims to develop a customer churn prediction model for the fictional streaming service Skystream, using a synthetic dataset.*
-
 In Part 1, I developed a benchmark churn prediction model for Skystream using the K-Nearest Neighbors (KNN) algorithm. The KNN model correctly identified 47% of all churn cases, achieving a precision of 57%.
 
 In Part 2 the goal is to build a Random Forest model that outperforms KNN on imbalanced, high-dimensional data, with a focus on improving both recall and precision.
