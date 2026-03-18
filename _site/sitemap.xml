@@ -2,10 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cerencodes.github.io/index.html</loc>
-    <lastmod>2026-03-18T04:06:50.076Z</lastmod>
+    <lastmod>2026-03-18T04:38:37.036Z</lastmod>
   </url>
   <url>
     <loc>https://cerencodes.github.io/resume.html</loc>
-    <lastmod>2026-03-18T04:14:56.165Z</lastmod>
+    <lastmod>2026-03-18T04:38:37.264Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cerencodes.github.io/posts/hierarchical-clustering-tidymodels/index.html</loc>
+    <lastmod>2026-03-18T05:17:50.661Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cerencodes.github.io/projects.html</loc>
+    <lastmod>2026-03-18T04:38:37.254Z</lastmod>
   </url>
 </urlset>

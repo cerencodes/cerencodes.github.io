@@ -58,6 +58,7 @@ library(cluster)
 ```{r}
 retail <- readxl::read_xlsx("retail.xlsx")
 head(retail)
+
 ```
 
 For data exploration purposes, I will be adding a sales variable to show the amount collected from each transaction in pounds.
@@ -222,36 +223,6 @@ rfm <- rfm  %>%
 ```
 
 ### Creating Clusters
-
-The Elbow Method shows k = 2 offers the most distinct clustering, after which there is a steady drop.
-
-```{r}
-fviz_nbclust(rfm[, c("recency", "frequency", "monetary")],
-             FUN = hcut,              # hierarchical clustering
-             method = "wss") + 
-  labs(subtitle = "Elbow Method")
-
-```
-
-```{r}
-k_values <- 1:10
-
-wss_values <- sapply(k_values, function(k) {
-  model <- hclust(dist(rfm[, c("recency", "frequency", "monetary")]),
-                  method = "ward.D2")
-  groups <- cutree(model, k)
- 
-# Compute within-cluster sum of squares manually
-  sum(sapply(unique(groups), function(g) {
-    cluster_data <- rfm[groups == g, c("recency", "frequency", "monetary")]
-    sum(scale(cluster_data, scale = FALSE)^2)
-  }))
-})
-
-elbow_df <- data.frame(k = k_values, WSS = wss_values)
-
-elbow_df
-```
 
 Silhouette Method confirms k = 2 is ideal for forming distinct segments.
 
