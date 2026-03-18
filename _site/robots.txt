@@ -1,1 +1,1 @@
-Sitemap: https://cerencodes.github.io/cerencodes/sitemap.xml
+Sitemap: https://cerencodes.github.io/sitemap.xml

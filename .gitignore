@@ -9,3 +9,5 @@
 .quarto
 _freeze/
 .RDataTmp
+
+**/*.quarto_ipynb
