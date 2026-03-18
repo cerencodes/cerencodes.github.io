@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cerencodes.github.io/cerencodes/index.html</loc>
-    <lastmod>2025-10-14T02:46:42.446Z</lastmod>
+    <loc>https://cerencodes.github.io/resume.html</loc>
+    <lastmod>2026-03-18T04:38:37.264Z</lastmod>
   </url>
   <url>
-    <loc>https://cerencodes.github.io/cerencodes/posts/churn-prediction-tidymodels-random-forest/index.html</loc>
-    <lastmod>2025-11-05T04:41:14.619Z</lastmod>
+    <loc>https://cerencodes.github.io/posts/hierarchical-clustering-tidymodels/index.html</loc>
+    <lastmod>2026-03-18T05:17:50.661Z</lastmod>
   </url>
   <url>
-    <loc>https://cerencodes.github.io/cerencodes/posts/hierarchical-clustering-tidymodels/index.html</loc>
-    <lastmod>2025-10-29T01:59:48.009Z</lastmod>
+    <loc>https://cerencodes.github.io/posts/churn-prediction-tidymodels-random-forest/index.html</loc>
+    <lastmod>2026-03-18T04:38:37.060Z</lastmod>
   </url>
   <url>
-    <loc>https://cerencodes.github.io/cerencodes/posts/differences-in-differences-campaign/index.html</loc>
-    <lastmod>2025-11-09T06:48:36.897Z</lastmod>
+    <loc>https://cerencodes.github.io/index.html</loc>
+    <lastmod>2026-03-18T04:38:37.036Z</lastmod>
   </url>
   <url>
-    <loc>https://cerencodes.github.io/cerencodes/posts/churn-prediction-tidymodels-knn/index.html</loc>
-    <lastmod>2025-11-08T02:55:25.475Z</lastmod>
+    <loc>https://cerencodes.github.io/posts/churn-prediction-tidymodels-knn/index.html</loc>
+    <lastmod>2026-03-18T04:38:37.036Z</lastmod>
   </url>
   <url>
-    <loc>https://cerencodes.github.io/cerencodes/projects.html</loc>
-    <lastmod>2025-10-14T02:49:17.867Z</lastmod>
+    <loc>https://cerencodes.github.io/posts/differences-in-differences-campaign/index.html</loc>
+    <lastmod>2026-03-18T04:38:37.063Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cerencodes.github.io/projects.html</loc>
+    <lastmod>2026-03-18T04:38:37.254Z</lastmod>
   </url>
 </urlset>
