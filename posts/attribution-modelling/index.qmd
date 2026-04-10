@@ -1,7 +1,7 @@
 ---
 title: "Attribution Modelling Case Study"
 author: Ceren Unal
-categories: [classification, exploratory data analysis]
+categories: [attribution]
 image: case_study.png
 description: A fictional marketing attribution case study for KNC that analyzes multi-channel performance and compares heuristic vs. data-driven models to guide smarter budget allocation.
 toc: true
