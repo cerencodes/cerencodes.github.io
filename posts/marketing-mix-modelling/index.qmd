@@ -1,8 +1,8 @@
 ---
-title: "Marketing Mix Modelling for Digital vs Offline Media"
+title: "Marketing Mix Modeling for Digital vs Offline Media"
 author: Ceren Unal
-categories: [mmm]
-image: mmm.png
+categories: [marketing mix models]
+image: marketing-mix.png
 description: An analysis of FourTex’s marketing mix model showing that Facebook and Google drive the strongest website traffic returns, while TV and radio contribute little to this specific performance outcome.
 toc: true
 toc-title: Content
